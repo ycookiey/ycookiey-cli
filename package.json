@@ -1,0 +1,11 @@
+{
+    "name": "ycookiey",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bin": {
+        "ycookieytest": "./index.js"
+    }
+}

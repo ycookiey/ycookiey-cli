@@ -1,11 +1,27 @@
 {
     "name": "ycookiey",
     "version": "1.0.0",
+    "description": "ycookieyの名刺をターミナルに表示するCLI",
+    "keywords": [
+        "ycookiey",
+        "card",
+        "npx",
+        "npx card",
+        "business card",
+        "cli"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ycookiey/ycookiey-cli.git"
+    },
+    "license": "MIT",
+    "author": "ycookiey (https://ycookiey.com)",
     "main": "index.js",
-    "author": "",
-    "license": "ISC",
     "type": "commonjs",
     "bin": {
-        "ycookieytest": "./index.js"
-    }
+        "ycookiey": "./index.js"
+    },
+    "files": [
+        "index.js"
+    ]
 }
